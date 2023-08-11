@@ -51,13 +51,6 @@ import java.util.Set;
  * |2     |'Daffy'    |'Duck'     |2     |'Elmer'    |'I'm hunting wabbits.'     |
  * |3     |'Foghorn'  |'Chicken'  |null  |null       |null                       |
  * |null  |null       |null       |3     |'Porky'    |'That's all folks!'        |
- *
- *
- * Additional reference material if needed:
- *      - https://stackoverflow.com/questions/13997365/sql-joins-as-venn-diagram
- *      - https://www.w3schools.com/sql/sql_join_left.asp
- *      - https://www.w3schools.com/sql/sql_join_right.asp
- *
  */
 
 public class OuterJoinActivity {
